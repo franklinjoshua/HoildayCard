@@ -1,4 +1,4 @@
-Final Projects!
+Holiday Card!
 =========
 
 If your project was in Processing, follow the steps below.  
